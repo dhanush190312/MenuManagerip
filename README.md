@@ -222,4 +222,3 @@ BART-MNLI is an NLI model — grammatically correct templates produce significan
 Intern — MenuManager Project · Track A  
 *Smart Menu Categorizer & Description Generator*
 
----
