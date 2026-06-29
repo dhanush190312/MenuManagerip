@@ -223,5 +223,3 @@ Intern — MenuManager Project · Track A
 *Smart Menu Categorizer & Description Generator*
 
 ---
-
-> *This project is part of a paired intern experiment — Track B (Lokeshwaran AP) builds a semantic search + Q&A assistant on the same dataset using sentence embeddings and extractive QA. Together the two tracks demonstrate two fundamentally different ways transformers can "understand" a menu.*
